@@ -1,5 +1,5 @@
-git status
-git init
+git status ->get the git status
+git init -> initializes the git repository
 git config --global user.name "Ashwini"
 git config --global user.email ashuhirave@gmail.com
 git config user.name "Ashwini"
@@ -7,4 +7,9 @@ git config user.email ashuhirave@gmail.com
 git add
 git commit 
 git log
-fir diff <filename>
+git diff <filename>
+git remote add origin repoitoryurl/link
+git push -u origin master
+git pull to pull all changes from origin
+git checkpout -b branchname => -b to create new branch with branchname
+git checkout branchname => to checkout existing branch in git
