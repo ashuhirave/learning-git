@@ -1,4 +1,9 @@
 Change-1
+<<<<<<< HEAD
 Master Change-2
 
 Master Change-4
+=======
+
+Change-3
+>>>>>>> cr2
