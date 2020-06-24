@@ -13,3 +13,6 @@ git push -u origin master
 git pull to pull all changes from origin
 git checkpout -b branchname => -b to create new branch with branchname
 git checkout branchname => to checkout existing branch in git
+git branch -> lists all branches and currently checkout branch with *
+git merge  branchname
+
